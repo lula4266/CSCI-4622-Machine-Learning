@@ -21,17 +21,17 @@
 | 4      | 02.05        | 4.3.1-4.3.3  | Logistic Regression                       | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson09.pdf)	         | [RQ](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=21797)   | [hmwk02](https://github.com/chrisketelsen/CSCI-4622-Machine-Learning/tree/master/hmwk/hmwk02)       | 
 |        | 02.07        |              | Intro to Text Models                      | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson10.pdf)            |    |            | 	
 |        | 02.09        |              | **Hands-On Logistic Regression**          | [nbk](https://github.com/chrisketelsen/CSCI-4622-Machine-Learning/tree/master/in-class-notebooks)  		 	 |    |            |
-| 5      | 02.12        |              | Stochastic Gradient Descent Part 1        | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson12.pdf) 	         | [RQ](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=21938)   |            | 
-|        | 02.14        |              | Stochastic Gradient Descent Part 2        |	         |    |            | 
-|        | 02.16        |              | **Hands-On SGD**                          |			 |    |            |
-| 6      | 02.19        | [Nielsen 1](http://neuralnetworksanddeeplearning.com/chap1.html)                                    	                                       | Neural Nets and the MLP                   |	         |    | hmwk03     | 
-|        | 02.21        | [Nielsen 1](http://neuralnetworksanddeeplearning.com/chap1.html)  																		                           | Back Propagation Part 1                   |	         |    |            | 
-|        | 02.23        | [Nielsen 2](http://neuralnetworksanddeeplearning.com/chap2.html) 																			                           | Back Propagation Part 2                   |			 |    |            |
-| 7      | 02.26        |              | **Hands-On Neural Nets**                  |	         |    |            | 
-|        | 02.28        |              | Neural Nets Mystery Day 1 				   |	         |    |            | 
-|        | 03.02        |              | Neural Nets Mystery Day 2                 |			 |    |            |
-| 8      | 03.05        |              | Midterm Exam Review                       |	         |    | hmwk04     | 
-|        | 03.07        |              | NNMD 3 + **Evening Midterm Exam**         |	         |    |            | 
+| 5      | 02.12        | [Ruder](http://ruder.io/optimizing-gradient-descent/index.html)             | Stochastic Gradient Descent Part 1        | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson12.pdf) 	         | [RQ](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=21938)   |            | 
+|        | 02.14        | [Ruder](http://ruder.io/optimizing-gradient-descent/index.html)             | Stochastic Gradient Descent Part 2        | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson13.pdf) 	         |    |            | 
+|        | 02.16        |              | **Hands-On SGD**                          | [nbk](https://github.com/chrisketelsen/CSCI-4622-Machine-Learning/tree/master/in-class-notebooks)			 |    |            |
+| 6      | 02.19        | [Nielsen 1](http://neuralnetworksanddeeplearning.com/chap1.html)                                    	                                       | Neural Nets and the MLP                   | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson15.pdf)	         |    | [hmwk03](https://github.com/chrisketelsen/CSCI-4622-Machine-Learning/tree/master/hmwk/hmwk03)     | 
+|        | 02.21        | [Nielsen 1](http://neuralnetworksanddeeplearning.com/chap1.html)  																		                           | ~~Feed-Forward NNs~~                          |	         |    |            | 
+|        | 02.23        | [Nielsen 2](http://neuralnetworksanddeeplearning.com/chap2.html) 																			                           | Feed Forward NNs                   | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson16.pdf)				 | [RQ](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=22190)   |            |
+| 7      | 02.26        | [Nielsen 2](http://neuralnetworksanddeeplearning.com/chap2.html)             																						   | Back Propagation Part 1                   | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson17.pdf)	         |    |            | 
+|        | 02.28        | [Nielsen 2](http://neuralnetworksanddeeplearning.com/chap2.html)             | Back Propagation Part 2                  |	[slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson18.pdf)         |    |            | 
+|        | 03.02        |              | **Hands-On-Neural Nets**                 |			 |    |            |
+| 8      | 03.05        |              | [Midterm Exam Review](https://github.com/chrisketelsen/CSCI-4622-Machine-Learning/blob/master/resources/midterm_info.md)                       |	         |    | hmwk04     | 
+|        | 03.07        |              | NNMD 1 + **Evening Midterm Exam**         |	         |    |            | 
 |        | 03.09        |              | Feature Engineering                       |	         |    |            | 
 | 9      | 03.12        |              | Validation                                |	         |    |            | 
 |        | 03.14        |              | Evaluation Metrics                        |	         |    |            | 
