@@ -35,18 +35,18 @@
 |        | 03.09        | [Nielsen 6](http://neuralnetworksanddeeplearning.com/chap6.html)             | ConvNets                       | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson20.pdf) 	         |    |            | 
 | 9      | 03.12        |      5        | Validation                                |	[slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson21.pdf)          | [RQ](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=22555&forceview=1)    | [hmwk04](https://github.com/chrisketelsen/CSCI-4622-Machine-Learning/tree/master/hmwk/hmwk04)   |  
 |        | 03.14        |  [Markhom](http://www.dataschool.io/roc-curves-and-auc-explained/)            | Evaluation Metrics                        | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson22.pdf)	         |    |            | 
-|        | 03.16        |              | **Hands-On Eval and Validation**          |			 |    |            |
-| 10     | 03.19        |              | Discrete Naive Bayes                      |	         |    |      | 
-|        | 03.21        |              | Continuous Naive Bayes                    |	         |    |            | 
-|        | 03.23        |  	           | **Hands-On Naive Bayes**                  |		     |    |            |
+|        | 03.16        |              | **Hands-On Eval and Validation**          |	[nbk](https://github.com/chrisketelsen/CSCI-4622-Machine-Learning/tree/master/in-class-notebooks)		 |    |            |
+| 10     | 03.19        | [Raschka](https://arxiv.org/pdf/1410.5329.pdf)             | Discrete Naive Bayes   |	[slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson24.pdf)         |    |      | 
+|        | 03.21        |              | More Naive Bayes                    |	 [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson25.pdf)        |    |            | 
+|        | 03.23        |  	           | **Hands-On Naive Bayes**                  |[nbk](https://github.com/chrisketelsen/CSCI-4622-Machine-Learning/tree/master/in-class-notebooks)		     |    |            |
 | 11     | 03.26        |              | **SPRING BREAK - NO CLASS**               |	         |    |            | 
 |        | 03.28        |              | **SPRING BREAK - NO CLASS**               |	         |    |            | 
 |        | 03.30        |              | **SPRING BREAK - NO CLASS**               |			 |    |            |
-| 12     | 04.02        |              | Little Bit'o Theory 					   | |    | hmwk05           | 
-|        | 04.04        |              | Hard-Margin SVM 						   |	         |    |            | 
-|        | 04.06        |              | Soft-Margin SVM Part 1                    |			 |    |            |
-| 13     | 04.09        |              | Soft-Margin SVM Part 2                    |			 |    |      | 
-|        | 04.11        |              | The Kernel Trick 						   |			 |	  |	           | 
+| 12     | 04.02        |              | Little Bit'o Theory 					   |[slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson27.pdf) |    | [hmwk05](https://github.com/chrisketelsen/CSCI-4622-Machine-Learning/tree/master/hmwk/hmwk05)           | 
+|        | 04.04        |              | Hard-Margin SVM 			   |	[slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson28.pdf)          | [RQ](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=22947)   |            | 
+|        | 04.06        |              | Soft-Margin SVM Part 1                    | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson29.pdf)			 |    |            |
+| 13     | 04.09        |              | Soft-Margin SVM Part 2                    | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson30.pdf)			 |    |      | 
+|        | 04.11        |              | The Kernel Trick 						   | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson31.pdf)			 |	  |	           | 
 |        | 04.13        |              | **Hands-On SVM**						   |			 |	  |            | 
 | 14     | 04.16        |              | Multiclass Classification 				   |	         |     |    Practicum   | 
 |        | 04.18        |              | Decision Trees Part 1                     |	         |    |            | 
